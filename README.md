@@ -53,7 +53,7 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 
 ### 🤝 Connect & Collaborate
 
-I am always open to discussing complex system design, IoT integrations, or startup architecture.
+I am always open to discussing complex system design, IoT integrations, web development or startup architecture.
 
 <p align="left">
 <a href="mailto:debjeetmazumdar3232@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debjeetmazumdar3232@gmail.com" /></a>
