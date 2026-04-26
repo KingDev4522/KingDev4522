@@ -37,7 +37,7 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 
 #### 🏎️ [Super Wheels: High-Performance Automotive UI/UX](https://github.com/KingDev4522/supercar-landingpage-concept-ui)
 *A high-fidelity interactive prototype pushing the limits of native web technologies.*
-* **Live Link:** 🌐 [View Live Website](https://supercar-landingpage-concept.vercel.app/)
+* **Live Link:** 🌐 [View Concept Website](https://supercar-landingpage-concept.vercel.app/)
 * Engineered complex GSAP scroll-triggered animations and physics-based CSS hover states.
 * Built a custom JavaScript dual-audio controller for synchronized multimedia playback without relying on heavy frontend frameworks.
 
