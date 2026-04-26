@@ -61,4 +61,4 @@ I am always open to discussing complex system design, IoT integrations, web deve
 <a href="https://wa.me/919007897751" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-📄 **[Download my full Resume here](https://github.com/KingDev4522/KingDev4522/blob/main/Debjeet_Mazumder_Resume.pdf)**
+📄 **[Download my full Resume here](https://github.com/KingDev4522/KingDev4522/raw/main/Debjeet_Mazumder_Resume.pdf)**
