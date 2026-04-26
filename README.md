@@ -1,5 +1,5 @@
 # 👨‍💻 Debjeet Mazumder
-**Full-Stack Architect | Hardware-IoT Developer | UI/UX Engineer**
+**Full-Stack Developer | Hardware-IoT Architect | UI/UX Engineer**
 
 > "Engineering is the translation of abstract intent into physical reality."
 
@@ -9,6 +9,7 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 
 ### 🚀 Architecture & Engineering Focus
 
+* **Modern Full-Stack Web Architecture:** Designing highly responsive, scalable, and performant web applications using the React ecosystem and Next.js. I focus on optimized state management, server-side rendering (SSR), and building modular components that deliver fluid user experiences.
 * **IoT & Embedded Ecosystems:** Architecting decentralized, dual-microcontroller hardware nodes (C/C++, ESP32, Arduino) that interface seamlessly with real-time cloud environments.
 * **Persistent Mobile Systems:** Developing memory-optimized native applications (Kotlin, Flutter) designed to survive aggressive OS background constraints and run headless AI processes.
 * **Thematic UI & WebGL:** Engineering high-performance web portals (React/Next.js) with interactive 3D digital twins, GSAP animations, and fluid physics rendering.
@@ -53,7 +54,7 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 
 ### 🤝 Connect & Collaborate
 
-I am always open to discussing complex system design, IoT integrations, web development or startup architecture.
+I am always open to discussing complex system design, web development, IoT integrations or startup architecture.
 
 <p align="left">
 <a href="mailto:debjeetmazumdar3232@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debjeetmazumdar3232@gmail.com" /></a>
