@@ -3,7 +3,7 @@
 
 > "Engineering is the translation of abstract intent into physical reality."
 
-I don't just write code; I build ecosystems. I am currently focused on bridging the gap between low-level hardware constraints and high-performance, visually fluid web interfaces. Whether it is routing zero-latency spatial data from an ESP32 or engineering web-based fluid physics, my goal is to build software that seamlessly escapes the screen.
+I don't just write code; I build ecosystems. I orchestrate my signature solutions to resolve complex problems. I am currently focused on bridging the gap between low-level hardware constraints and high-performance, visually fluid web interfaces. Whether it is routing zero-latency spatial data from an ESP32 or engineering web-based fluid physics, my goal is to build software that seamlessly escapes the screen.
 
 ---
 
