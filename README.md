@@ -30,6 +30,7 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 
 #### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)*
+#### **[Team Project - Founder, Solo Architect & Lead Developer]**
 * **Live Links:** 🌐 [View Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
 * **The Hardware:** Custom wearable apparatus integrating a multidirectional spatial awareness array for zero-latency haptic response.
 * **The Cloud:** Low-latency web portal featuring a WebGL digital twin interface to visually track hardware orientation and optical telemetry.
