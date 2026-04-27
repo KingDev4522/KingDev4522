@@ -29,20 +29,22 @@ I don't just write code; I build ecosystems. I am currently focused on bridging 
 ### 🏆 Featured Architectures
 
 #### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
+**[Team Project - Founder, Solo Architect & Lead Developer]**
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)*
-#### **[Team Project - Founder, Solo Architect & Lead Developer]**
 * **Live Links:** 🌐 [View Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
 * **The Hardware:** Custom wearable apparatus integrating a multidirectional spatial awareness array for zero-latency haptic response.
 * **The Cloud:** Low-latency web portal featuring a WebGL digital twin interface to visually track hardware orientation and optical telemetry.
 * **The Mobile AI:** Memory-optimized app in a headless ambient state, unifying voice-navigated spatial AI with an OS-bypassing emergency routing protocol.
 
 #### 🏎️ [Super Wheels: High-Performance Automotive UI/UX](https://github.com/KingDev4522/supercar-landingpage-concept-ui)
+**[Solo Project]**
 *A high-fidelity interactive prototype pushing the limits of native web technologies.*
 * **Live Link:** 🌐 [View Concept Website](https://supercar-landingpage-concept.vercel.app/)
 * Engineered complex GSAP scroll-triggered animations and physics-based CSS hover states.
 * Built a custom JavaScript dual-audio controller for synchronized multimedia playback without relying on heavy frontend frameworks.
 
 #### 🏭 Udyog: AI-Driven Industrial Supply Exchange *(In Development)*
+**[Duo Project - Lead Developer \& Designer]**
 *A full-stack B2B Circular Economy marketplace.*
 * Architected an AI recommendation engine utilizing geospatial proximity and sentiment analysis.
 * Implemented an industrial compliance layer with digital certificate verification and multi-tag rating systems to establish B2B trust.
