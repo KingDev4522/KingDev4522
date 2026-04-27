@@ -14,6 +14,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Persistent Mobile Systems:** Developing memory-optimized native applications (Kotlin, Flutter) designed to survive aggressive OS background constraints and run headless AI processes.
 * **Thematic UI & WebGL:** Engineering high-performance web portals (React/Next.js) with interactive 3D digital twins, GSAP animations, and fluid physics rendering.
 * **System Design:** Structuring scalable B2B architectures with AI-driven recommendation engines and complex relational databases.
+* **Backend Architecture & API Routing:** Architecting robust Python-based routing servers that act as the central nervous system for IoT ecosystems. I focus on bridging physical hardware and frontend interfaces through low-latency telemetry routing, real-time state synchronization, low-latency data pipelines for live optical streaming and automated SOS dispatch routing.
 
 ---
 
@@ -35,7 +36,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)*
 * **Live Links:** 🌐 [View Beta Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
 * **The Hardware:** Custom wearable apparatus integrating a multidirectional spatial awareness array for zero-latency haptic response.
-* **The Core Server:** A robust Python-based API gateway acting as the ecosystem's nervous system, routing real-time telemetry and bi-directional data between the physical hardware, mobile app, and web interfaces.
+* **The Core Server:** A robust Python-based API gateway acting as the ecosystem's nervous system, routing real-time telemetry and bi-directional data between the physical hardware, mobile app, and web interfaces. Implemented secure data pipelines for live optical telemetry streaming and an OS-bypassing SOS dispatch system.
 * **The Website:** Low-latency web portal featuring a WebGL digital twin interface to visually track hardware orientation and optical telemetry.
 * **The Mobile AI:** Memory-optimized app in a headless ambient state, unifying voice-navigated spatial AI with an OS-bypassing emergency routing protocol.
 
