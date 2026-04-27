@@ -24,6 +24,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Frameworks & Ecosystems:** Flutter, Flask, GSAP, React Ecosystem
 * **Databases & Storage:** MySQL, SQLite, SQLAlchemy
 * **Tools & Modeling:** Git, GitHub, AutoCAD, Blender
+* **Hardware/IoT:** ESP32, Arduino, Sensor Integration
 
 ---
 
