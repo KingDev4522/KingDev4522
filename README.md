@@ -19,10 +19,11 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 
 ### 🛠️ The Arsenal
 
-* **Languages:** C/C++, Python, Java, JavaScript, Kotlin, Dart, HTML5/CSS3
-* **Frameworks:** Flutter, Flask, GSAP, React Ecosystem
-* **Databases:** MySQL, SQLite, SQLAlchemy
-* **Tools & Environments:** Git, GitHub, Linux, AutoCAD, Blender
+* **Core Proficiencies:** C/C++, Python, Java, HTML5/CSS3
+* **Applied Experience:** Kotlin, Dart, JavaScript
+* **Frameworks & Ecosystems:** Flutter, Flask, GSAP, React Ecosystem
+* **Databases & Storage:** MySQL, SQLite, SQLAlchemy
+* **Tools & Modeling:** Git, GitHub, Linux, AutoCAD, Blender
 
 ---
 
