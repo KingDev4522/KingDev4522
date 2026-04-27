@@ -23,7 +23,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Applied Experience:** Kotlin, Dart, JavaScript
 * **Frameworks & Ecosystems:** Flutter, Flask, GSAP, React Ecosystem
 * **Databases & Storage:** MySQL, SQLite, SQLAlchemy
-* **Tools & Modeling:** Git, GitHub, Linux, AutoCAD, Blender
+* **Tools & Modeling:** Git, GitHub, AutoCAD, Blender
 
 ---
 
