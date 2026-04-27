@@ -12,7 +12,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Modern Full-Stack Web Architecture:** Designing highly responsive, scalable, and performant web applications using the React ecosystem and Next.js. I focus on optimized state management, server-side rendering (SSR), and building modular components that deliver fluid user experiences.
 * **IoT & Embedded Ecosystems:** Architecting decentralized, dual-microcontroller hardware nodes (C/C++, ESP32, Arduino) that interface seamlessly with real-time cloud environments.
 * **Persistent Mobile Systems:** Developing memory-optimized native applications (Kotlin, Flutter) designed to survive aggressive OS background constraints and run headless AI processes.
-* **Thematic UI & WebGL:** Engineering high-performance web portals (React/Next.js) with interactive 3D digital twins, GSAP animations, and fluid physics rendering.
+* **Thematic UI & WebGL:** Engineering high-performance web portals (JavaScript,Three.js/HTML,CSS) with interactive 3D digital twins, GSAP animations, and fluid physics rendering.
 * **System Design:** Structuring scalable B2B architectures with AI-driven recommendation engines and complex relational databases.
 * **Backend Architecture & API Routing:** Architecting robust Python-based routing servers that act as the central nervous system for IoT ecosystems. I focus on bridging physical hardware and frontend interfaces through low-latency telemetry routing, real-time state synchronization, low-latency data pipelines for live optical streaming and automated SOS dispatch routing.
 
