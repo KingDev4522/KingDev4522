@@ -21,7 +21,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 
 * **Core Proficiencies:** C/C++, Python, Java, HTML5/CSS3
 * **Applied Experience:** Kotlin, Dart, JavaScript
-* **Frameworks & Ecosystems:** Flutter, Flask, GSAP, React Ecosystem
+* **Frameworks & Ecosystems:** Flutter, Flask, GSAP
 * **Databases & Storage:** MySQL, SQLite, SQLAlchemy
 * **Tools & Modeling:** Git, GitHub, AutoCAD, Blender
 * **Hardware/IoT:** ESP32, Arduino, Sensor Integration
