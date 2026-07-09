@@ -13,8 +13,8 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **IoT & Embedded Ecosystems:** Architecting decentralized, dual-microcontroller hardware nodes (C/C++, ESP32, Arduino) that interface seamlessly with real-time cloud environments.
 * **Persistent Mobile Systems:** Developing memory-optimized native applications (Kotlin, Flutter) designed to survive aggressive OS background constraints and run headless AI processes.
 * **Thematic UI & WebGL:** Engineering high-performance web portals (JavaScript,Three.js/HTML,CSS) with interactive 3D digital twins, GSAP animations, and fluid physics rendering.
-* **System Design:** Structuring scalable B2B architectures with AI-driven recommendation engines and complex relational databases.
-* **Backend Architecture & API Routing:** Architecting robust Python-based routing servers that act as the central nervous system for IoT ecosystems. I focus on bridging physical hardware and frontend interfaces through low-latency telemetry routing, real-time state synchronization, low-latency data pipelines for live optical streaming and automated SOS dispatch routing.
+* **System Design & Databases:** Structuring scalable B2B architectures with AI-driven recommendation engines, and engineering custom flat-file relational databases utilizing dynamic state-machine routing.* **Backend Architecture & API Routing:** Architecting robust Python-based routing servers that act as the central nervous system for IoT ecosystems. I focus on bridging physical hardware and frontend interfaces through low-latency telemetry routing, real-time state synchronization, low-latency data pipelines for live optical streaming and automated SOS dispatch routing.
+* **Memory-Safe Systems Programming:** Architecting monolithic software applications and custom database engines in C/C++, focusing on strict dynamic memory management, pointer arithmetic, and custom cryptographic security layers.
 
 ---
 
@@ -23,7 +23,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Core Proficiencies:** C/C++, Python, Java, HTML5/CSS3
 * **Applied Experience:** Kotlin, Dart, JavaScript
 * **Frameworks & Ecosystems:** Flutter, Flask, GSAP
-* **Databases & Storage:** MySQL, SQLite, SQLAlchemy
+* **Databases & Storage:** MySQL, SQLite, SQLAlchemy, Flat-File Relational Engines
 * **Tools & Modeling:** Git, GitHub, AutoCAD, Blender
 * **Hardware/IoT:** ESP32, Arduino, Sensor Integration
 
@@ -54,6 +54,14 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **Hardware Engineering:** Constructed a robust 4WD robotic chassis using a custom 20x12 cm (6mm thick) vibration-dampening wooden board, integrating an Arduino Uno R3 and an Adafruit L293D Motor Shield.
 * **Embedded Firmware:** Developed custom C++ logic for differential drive kinematics (skid-steering) and dynamic PWM speed reduction algorithms, enabling real-time smartphone control via an HC-05 Bluetooth serial link.
 * **Power Architecture:** Engineered an isolated power distribution system using a dedicated high-drain 18650 lithium-ion battery plant for the motors, successfully mitigating microcontroller brownouts during stall-current spikes.
+
+#### 🏥 [City Multi-Specialty Clinic | Enterprise CLI System](https://github.com/KingDev4522/clinic)
+**[Team Project - Founder, Lead Architect & Lead Backend Engineer]**
+*An enterprise-grade, memory-safe clinical management ecosystem built entirely in C.*
+* **Custom Relational Database Engine:** Architected a highly optimized, flat-file CRUD engine utilizing delimited text files, featuring file-lock semaphores to prevent data corruption during concurrent background saves.
+* **Dynamic State-Machine Routing:** Engineered the core logic pipelines to autonomously track and route patient data across 5 strict role-based access portals (Admin, Doctor, Reception, Lab, Kiosk).
+* **Security & Memory Safety:** Built a custom Hex-XOR cryptographic cipher for credential obfuscation and implemented strict dynamic memory allocation protocols (`malloc`/`realloc`) to guarantee Valgrind-safe execution and zero-crash stability.
+* **Automated Document Generation:** Programmed background modules to dynamically compile, format, and export clinical prescriptions, lab results, and itemized tax invoices directly to the local file system.
 
 ---
 
