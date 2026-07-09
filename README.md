@@ -68,7 +68,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 ### 📜 Accolades & Trophies
 * 🥇 **1st Place (App-Dev Competition)** - JISTech 2K26
 * 🥉 **2nd Runner-Up (Theme Based Project: AES)** - JISTech 2K26
-*  **3rd Runner-Up** - Crazy Build 2k26
+* 🏅 **3rd Runner-Up** - Crazy Build 2k26
 
 ---
 
@@ -80,6 +80,7 @@ I am always open to discussing complex system design, web development, IoT integ
 <a href="mailto:debjeetmazumdar3232@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debjeetmazumdar3232@gmail.com" /></a>
 <a href="www.linkedin.com/in/debjeet-mazumder-4522d" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Debjeet Mazumder" /></a>
 <a href="https://wa.me/919007897751" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://linktr.ee/Debjeet4522" target="blank"><img align="center" src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
 📄 **[Download my full Resume here](https://github.com/KingDev4522/KingDev4522/raw/main/Debjeet_Mazumder_Resume.pdf)**
