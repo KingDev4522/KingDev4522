@@ -48,11 +48,12 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * Engineered complex GSAP scroll-triggered animations and physics-based CSS hover states.
 * Built a custom JavaScript dual-audio controller for synchronized multimedia playback without relying on heavy frontend frameworks.
 
-#### 🏭 Udyog: AI-Driven Industrial Supply Exchange *(In Development)*
-**[Duo Project - Lead Developer \& Designer]**
-*A full-stack B2B Circular Economy marketplace.*
-* Architected an AI recommendation engine utilizing geospatial proximity and sentiment analysis.
-* Implemented an industrial compliance layer with digital certificate verification and multi-tag rating systems to establish B2B trust.
+#### 🏎️ [Smart Bluetooth 4WD RC Car](https://github.com/KingDev4522/RC-Car)
+**[Solo Project - Hardware Engineer & Firmware Developer]**
+*A custom-built, smartphone-controlled mechatronic platform.*
+* **Hardware Engineering:** Constructed a robust 4WD robotic chassis using a custom 20x12 cm (6mm thick) vibration-dampening wooden board, integrating an Arduino Uno R3 and an Adafruit L293D Motor Shield.
+* **Embedded Firmware:** Developed custom C++ logic for differential drive kinematics (skid-steering) and dynamic PWM speed reduction algorithms, enabling real-time smartphone control via an HC-05 Bluetooth serial link.
+* **Power Architecture:** Engineered an isolated power distribution system using a dedicated high-drain 18650 lithium-ion battery plant for the motors, successfully mitigating microcontroller brownouts during stall-current spikes.
 
 ---
 
