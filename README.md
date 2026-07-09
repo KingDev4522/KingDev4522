@@ -68,6 +68,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 ### 📜 Accolades & Trophies
 * 🥇 **1st Place (App-Dev Competition)** - JISTech 2K26
 * 🥉 **2nd Runner-Up (Theme Based Project: AES)** - JISTech 2K26
+*  **3rd Runner-Up** - Crazy Build 2k26
 
 ---
 
