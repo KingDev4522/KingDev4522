@@ -1,5 +1,5 @@
 # 👨‍💻 Debjeet Mazumder
-**Full-Stack Developer | Hardware-IoT Architect | UI/UX Engineer | Mobile Architecture**
+**Full-Stack Developer | AI Engineer | Hardware-IoT Architect | UI/UX Engineer | Mobile Architecture**
 
 > "Engineering is the translation of abstract intent into physical reality."
 
