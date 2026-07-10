@@ -7,6 +7,10 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 
 ---
 
+<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/31955ebf-af88-46b3-aa38-04a3f84bc5ad" />
+
+---
+
 ### 🚀 Architecture & Engineering Focus
 
 * **Modern Full-Stack Web Architecture:** Designing highly responsive, scalable, and performant web applications using the React ecosystem and Next.js. I focus on optimized state management, server-side rendering (SSR), and building modular components that deliver fluid user experiences.
