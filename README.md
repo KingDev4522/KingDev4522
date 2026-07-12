@@ -7,7 +7,7 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 
 ---
 
-<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/93148498-7427-410a-a3b4-eb6917f73edb" />
+<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a532c680-4d7b-418d-a3ed-5cc428bca307" />
 
 
 ---
