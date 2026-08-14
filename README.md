@@ -46,12 +46,6 @@ I don't just write code; I build ecosystems. I orchestrate my signature solution
 * **The Website:** Low-latency web portal featuring a WebGL digital twin interface to visually track hardware orientation and optical telemetry.
 * **The Mobile AI:** Memory-optimized app in a headless ambient state, unifying voice-navigated spatial AI with an OS-bypassing emergency routing protocol.
 
-  #### 🛡️ Patronus: Multimodal AI Forensics Ecosystem
-*[Team Project - Co-Founder, Backend & Frontend Co-Developer, AI Co-Engineer]*[cite: 1]
-**Tech Stack:** PyTorch, OpenCV, SQLite, ASGI, Zustand[cite: 1]
-* **5-Module AI Architecture & Tensor Physics:** Engineered specialized deep-learning evaluation pipelines across all 5 forensic modules (deploying YOLOv8, ResNet, and PyTorch Mel-spectrograms)[cite: 1]. Simultaneously developed the Luminescence engine, utilizing `adaptive_max_pool2d` tensors and Min-Max Normalization to mathematically preserve and amplify microscopic deepfake edge-signals within compressed media[cite: 1].
-* **Full-Stack System Integration:** Connected the entire AI ecosystem to the frontend DOM by structuring strict SQLite database write-schemas across all 5 pipelines[cite: 1]. Mapped complex Zustand JSON payloads to enable the immediate 60FPS rendering of live Base64 heatmaps and model verdicts[cite: 1].
-
 #### 🏎️ [Super Wheels: High-Performance Automotive UI/UX](https://github.com/KingDev4522/supercar-landingpage-concept-ui)
 **[Solo Project]**
 *A high-fidelity interactive prototype pushing the limits of native web technologies.*
