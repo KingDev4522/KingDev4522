@@ -48,7 +48,7 @@ I am a B.Tech CSE student, a 3x hackathon laureate, and a full-stack developer s
 
 #### 🛡️ Patronus: Multimodal AI Forensics Ecosystem
 *[Team Project - Co-Founder, Backend & Frontend Co-Developer, AI Co-Engineer]*
-**Tech Stack:** PyTorch, OpenCV, SQLite, ASGI, Zustand
+* **Tech Stack:** PyTorch, OpenCV, SQLite, ASGI, Zustand
 * **5-Module AI Architecture & Tensor Physics:** Engineered specialized deep-learning evaluation pipelines across all 5 forensic modules (deploying YOLOv8, ResNet, and PyTorch Mel-spectrograms). Simultaneously developed the Luminescence engine, utilizing `adaptive_max_pool2d` tensors and Min-Max Normalization to mathematically preserve and amplify microscopic deepfake edge-signals within compressed media.
 * **Full-Stack System Integration:** Connected the entire AI ecosystem to the frontend DOM by structuring strict SQLite database write-schemas across all 5 pipelines. Mapped complex Zustand JSON payloads to enable the immediate 60FPS rendering of live Base64 heatmaps and model verdicts.
 
