@@ -39,7 +39,7 @@ I am a B.Tech CSE student, a 3x hackathon laureate, and a full-stack developer s
 
 #### 🦚 Maargdarshan: AI-Enabled Smart Navigation Ecosystem
 *[Team Project - Founder, Solo Architect & Lead Developer]* A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)
-* **Live Links:** 🌐 View Web Portal | 📱 Download Beta APK *(Note: Active beta prototypes for demonstration)*
+* **Live Links:** 🌐 [View Web Portal](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view) *(Note: Active beta prototypes for demonstration)*
 * **Hardware Node:** Self built and engineered a custom wearable IoT device integrating a multidirectional spatial awareness array for real-time environmental mapping and localized haptic response.
 * **Web Backend:** Architected a low-latency web portal featuring a digital twin interface to visually track hardware orientation, integrated with real-time optical telemetry, historical spatial-analysis logs alongside emergency dispatch protocol.
 * **Frontend & UI Engineering:** Engineered a high-performance, visually thematic UI utilizing advanced rendering techniques to achieve fluid physics (satin cloth and water ripple effects). Integrated dynamic thematic motifs (peacock feather cursor) to visually translate the project’s assistive philosophy into an interactive digital experience.
@@ -71,7 +71,7 @@ I am a B.Tech CSE student, a 3x hackathon laureate, and a full-stack developer s
 
 #### 🏎️ Super Wheels: High-Performance Automotive UI/UX
 *[Solo Project]* A high-fidelity interactive prototype pushing the limits of native web technologies.
-* **Live Link:** 🌐 View Concept Website
+* **Live Link:** 🌐 [View Concept Website](https://supercar-landingpage-concept.vercel.app/)
 * Engineered complex GSAP scroll-triggered animations and physics-based CSS hover states.
 * Built a custom JavaScript dual-audio controller for synchronized multimedia playback without relying on heavy frontend frameworks.
 
