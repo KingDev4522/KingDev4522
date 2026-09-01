@@ -83,6 +83,7 @@ I am a B.Tech CSE student, a 4x hackathon laureate, and a full-stack developer s
 * 🥉 **2nd Runner-Up** (Theme Based Project: AES) - JISTech 2K26
 * 🏅 **3rd Runner-Up** - Crazy Build 2K26
 * 🏆 **Winner (Best Beginner Track)** — HexaFalls 2 Hackathon
+* 🏆 **Winner** — RevengersHack 2026
 
 ---
 
