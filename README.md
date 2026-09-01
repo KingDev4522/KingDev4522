@@ -4,7 +4,7 @@
 
 > *"Engineering is the translation of abstract intent into physical reality."*
 
-I am a B.Tech CSE student, a 3x hackathon laureate, and a full-stack developer specializing in scalable, end-to-end systems. I don't just write code; I build ecosystems. I orchestrate signature solutions to resolve complex problems by architecting low-latency IoT ecosystems, multi-agent AI pipelines, and AI-driven B2B SaaS platforms. Proficient across embedded C++, robust Python backends, and high-performance interfaces, my goal is to solve complex real-world engineering challenges and build software that seamlessly escapes the screen.
+I am a B.Tech CSE student, a 4x hackathon laureate, and a full-stack developer specializing in scalable, end-to-end systems. I don't just write code; I build ecosystems. I orchestrate signature solutions to resolve complex problems by architecting low-latency IoT ecosystems, multi-agent AI pipelines, and AI-driven B2B SaaS platforms. Proficient across embedded C++, robust Python backends, and high-performance interfaces, my goal is to solve complex real-world engineering challenges and build software that seamlessly escapes the screen.
 
 ---
 
